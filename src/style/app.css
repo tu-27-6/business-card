@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+  
+ol, ul {
+    list-style: none;
+}
+  
+
+body {
+    margin: 0;
+    /* overflow: hidden; */
+}
+
+.main {
+    background-color: #23252C;
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    position: relative;
+}
+

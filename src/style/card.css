@@ -1,0 +1,57 @@
+.card {
+    height: 800px;
+    width: 350px;
+    background-color: #fff;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.avatar {
+    height: 320px;
+    width: 350px;
+    background-image: url("../images/deptrai.jpg");
+    background-size: cover;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.detail {
+    width: 350px;
+    height: 430px;
+    background-color: #1A1B21;
+    color: #fff;
+}
+
+.detail > h1 {
+    padding-top: 20px;
+}
+
+.detail > h4 {
+    margin-top: 5px;
+    color: #F3BF99;
+    font-weight: 400;
+    line-height: 15px;
+}
+
+.text {
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 20px;
+
+}
+
+.text > p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    color: #DCDCDC;
+    margin-bottom: 5px;
+}
+
